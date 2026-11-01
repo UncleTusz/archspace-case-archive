@@ -1,0 +1,133 @@
+{
+  "format": "archspace-public-case-batch-v1",
+  "collectionDate": "2026-11-02",
+  "permissionBasis": "User declared coverage for all eleven sources on 2026-11-02; independent permission attachments not supplied.",
+  "articles": [
+    {
+      "itemId": "e35f073b-c72c-4fe9-ac33-5292ad8de39d",
+      "sourceSlug": "archdaily",
+      "account": "ArchDaily",
+      "title": "World Cities Day 2026 Explores \"Regenerating the City: Adequate Housing for All\"",
+      "publishedAt": "2026-10-30T06:30:00.000Z",
+      "articlePath": "articles/archdaily/d873574f56a7b428b1717a118a8268530db92e1ae055a0f3e29f6a56b529fb1b/article.md",
+      "articleSha256": "7c008448733c300705fdfeea78835022eaf97b3d032cce219340389172f788e7",
+      "files": [
+        {
+          "path": "articles/archdaily/d873574f56a7b428b1717a118a8268530db92e1ae055a0f3e29f6a56b529fb1b/article.md",
+          "sha256": "7c008448733c300705fdfeea78835022eaf97b3d032cce219340389172f788e7",
+          "bytes": 11303
+        },
+        {
+          "path": "media/345e1d3123e12c80d96105670808b107a0bf596b7a75ed18989161101a3bba64.jpg",
+          "sha256": "345e1d3123e12c80d96105670808b107a0bf596b7a75ed18989161101a3bba64",
+          "bytes": 2376235
+        },
+        {
+          "path": "media/17995c1792f92b89db1093868acad0a917aa720a71d20b686f1ed04ae930d9db.jpg",
+          "sha256": "17995c1792f92b89db1093868acad0a917aa720a71d20b686f1ed04ae930d9db",
+          "bytes": 229132
+        },
+        {
+          "path": "media/5d75b839d679e1418129432ea947c1f8a989ff410f26f55e9bcc8479c820ed21.jpg",
+          "sha256": "5d75b839d679e1418129432ea947c1f8a989ff410f26f55e9bcc8479c820ed21",
+          "bytes": 231880
+        },
+        {
+          "path": "media/dfa0059fb3ee6ff720807752a26f550b4bc248bf8ae336dd2d950c22ba84fd0e.jpg",
+          "sha256": "dfa0059fb3ee6ff720807752a26f550b4bc248bf8ae336dd2d950c22ba84fd0e",
+          "bytes": 130545
+        },
+        {
+          "path": "media/a933ccfaacf84ff5992436e330d6827487ccf18d73ae90efbbd28bc0853d5386.jpg",
+          "sha256": "a933ccfaacf84ff5992436e330d6827487ccf18d73ae90efbbd28bc0853d5386",
+          "bytes": 215427
+        },
+        {
+          "path": "media/6d3dfc59044a7c8280548013105a3faa69b8fc2e7eab5e68c7ff8832cc7e8705.jpg",
+          "sha256": "6d3dfc59044a7c8280548013105a3faa69b8fc2e7eab5e68c7ff8832cc7e8705",
+          "bytes": 153087
+        },
+        {
+          "path": "media/33d5c2ed04ebf457d3cc7cc336c43bc5790fb2e6ce59a03e72601ce92507bd71.jpg",
+          "sha256": "33d5c2ed04ebf457d3cc7cc336c43bc5790fb2e6ce59a03e72601ce92507bd71",
+          "bytes": 152691
+        },
+        {
+          "path": "media/e0b0bb301e5295eae63aaec6f4a93d6e81b262aa66a49288c07cabc84d504023.jpg",
+          "sha256": "e0b0bb301e5295eae63aaec6f4a93d6e81b262aa66a49288c07cabc84d504023",
+          "bytes": 165820
+        },
+        {
+          "path": "media/810a8f2b111cf9f22fc2ef2fd578ddaed1ce12d49320b1e3324e30cee7213a90.jpg",
+          "sha256": "810a8f2b111cf9f22fc2ef2fd578ddaed1ce12d49320b1e3324e30cee7213a90",
+          "bytes": 135354
+        },
+        {
+          "path": "media/c8056f39ba7b48b650b18523572f80d97768d55c02f5908a3b8f8543d8b0c55a.jpg",
+          "sha256": "c8056f39ba7b48b650b18523572f80d97768d55c02f5908a3b8f8543d8b0c55a",
+          "bytes": 169152
+        },
+        {
+          "path": "media/c84673b64148a67d47073962544148662f0ec371529f3d3049c5d21be820793a.jpg",
+          "sha256": "c84673b64148a67d47073962544148662f0ec371529f3d3049c5d21be820793a",
+          "bytes": 130306
+        },
+        {
+          "path": "media/6c233b6b83265797c9bda4e44c9d49fa4b67b57c9b552092726fb1c94d54ac0b.jpg",
+          "sha256": "6c233b6b83265797c9bda4e44c9d49fa4b67b57c9b552092726fb1c94d54ac0b",
+          "bytes": 206213
+        },
+        {
+          "path": "media/97ce8821dd353bcdf94fef6b0a154abe00dc22fb9ccc33121edc92123f00dc64.jpg",
+          "sha256": "97ce8821dd353bcdf94fef6b0a154abe00dc22fb9ccc33121edc92123f00dc64",
+          "bytes": 202102
+        },
+        {
+          "path": "media/1eaab2cd8b8940201d2f30b2a408e0a70d874e5fb55613b0e24e58cf8293405f.jpg",
+          "sha256": "1eaab2cd8b8940201d2f30b2a408e0a70d874e5fb55613b0e24e58cf8293405f",
+          "bytes": 187920
+        },
+        {
+          "path": "media/9b26b0282377b1654c286741d90cd64b909fde3ba159c66f69a46b2e330f873f.jpg",
+          "sha256": "9b26b0282377b1654c286741d90cd64b909fde3ba159c66f69a46b2e330f873f",
+          "bytes": 160189
+        },
+        {
+          "path": "media/8bbb06e3d19da147e132c8b13f93cbb770115e46efe9cd6cc2d76b6c2f026876.jpg",
+          "sha256": "8bbb06e3d19da147e132c8b13f93cbb770115e46efe9cd6cc2d76b6c2f026876",
+          "bytes": 111943
+        },
+        {
+          "path": "media/d1661c3f87d4f4158a4ed070dde4cc39af5264b09f915ba9da250e602bda258f.jpg",
+          "sha256": "d1661c3f87d4f4158a4ed070dde4cc39af5264b09f915ba9da250e602bda258f",
+          "bytes": 148771
+        },
+        {
+          "path": "media/ec598b7c596818cb0b079a47e0e61ec73f6682ace69ef50b479242c5004b7e43.jpg",
+          "sha256": "ec598b7c596818cb0b079a47e0e61ec73f6682ace69ef50b479242c5004b7e43",
+          "bytes": 258773
+        },
+        {
+          "path": "media/e7aa526c77bd694581759e607d0ddbc994edc3fbb8cfdedaaa9257e525d99c7f.jpg",
+          "sha256": "e7aa526c77bd694581759e607d0ddbc994edc3fbb8cfdedaaa9257e525d99c7f",
+          "bytes": 153992
+        },
+        {
+          "path": "media/10047d1634dd30b996b0a5698e88e7f43555a9bdfd17c385480e2a2d9e44e606.jpg",
+          "sha256": "10047d1634dd30b996b0a5698e88e7f43555a9bdfd17c385480e2a2d9e44e606",
+          "bytes": 138095
+        },
+        {
+          "path": "media/753248102ea988c6c146bf7c44cb9cf749c457697cf070362ba2628071d756b0.jpg",
+          "sha256": "753248102ea988c6c146bf7c44cb9cf749c457697cf070362ba2628071d756b0",
+          "bytes": 155323
+        },
+        {
+          "path": "media/1ad3aeb3f75997061dea000e5b6b2006222d243e62216561608f99f533a94e3a.jpg",
+          "sha256": "1ad3aeb3f75997061dea000e5b6b2006222d243e62216561608f99f533a94e3a",
+          "bytes": 28531
+        }
+      ]
+    }
+  ]
+}
