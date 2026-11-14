@@ -1,0 +1,1145 @@
+{
+  "format": "archspace-public-case-batch-v1",
+  "collectionDate": "2026-11-14",
+  "permissionBasis": "User declared coverage for all eleven sources on 2026-11-02; independent permission attachments not supplied.",
+  "articles": [
+    {
+      "itemId": "b40a6a0e-cbf0-4e02-bcfd-59846946f7b8",
+      "sourceSlug": "wechat-archiposition",
+      "account": "有方空间",
+      "title": "​新作｜顺势为“之”：重庆麓溪湖慢行中心 / 之外建筑",
+      "publishedAt": "2026-11-13T09:51:00.000Z",
+      "articlePath": "articles/wechat-archiposition/ce94ee088debe4b4269ae9a6fdf1044709d6644e4db6c0a0d3650533588a56a8/article.md",
+      "articleSha256": "3b1a66c706d7785a75bdda30e4a3fe43f28d706bee8de918a9444c7b114a25ba",
+      "files": [
+        {
+          "path": "articles/wechat-archiposition/ce94ee088debe4b4269ae9a6fdf1044709d6644e4db6c0a0d3650533588a56a8/article.md",
+          "sha256": "3b1a66c706d7785a75bdda30e4a3fe43f28d706bee8de918a9444c7b114a25ba",
+          "bytes": 15867
+        },
+        {
+          "path": "media/f75d8dbd27c129b5488f02bedab257240518e1a957585cb4fb5b800ba3560ebe.jpg",
+          "sha256": "f75d8dbd27c129b5488f02bedab257240518e1a957585cb4fb5b800ba3560ebe",
+          "bytes": 197573
+        },
+        {
+          "path": "media/4af8e7c30c304f40daaf024cae4c6492949b65b571ddd70cc6e0262041917715.png",
+          "sha256": "4af8e7c30c304f40daaf024cae4c6492949b65b571ddd70cc6e0262041917715",
+          "bytes": 2920339
+        },
+        {
+          "path": "media/29a7198c6d1e54541bc6b3577ebfc5af64a519d259c234a7059f14ce0d358d84.png",
+          "sha256": "29a7198c6d1e54541bc6b3577ebfc5af64a519d259c234a7059f14ce0d358d84",
+          "bytes": 1590653
+        },
+        {
+          "path": "media/7de878483840acf4c9352b0ec39bca0a6f3982e8192cb680115976de9095eb2f.png",
+          "sha256": "7de878483840acf4c9352b0ec39bca0a6f3982e8192cb680115976de9095eb2f",
+          "bytes": 2625407
+        },
+        {
+          "path": "media/f789334cbaf1041202d286fb0b5ade3664775cacc753851ac312f87a62c683e6.png",
+          "sha256": "f789334cbaf1041202d286fb0b5ade3664775cacc753851ac312f87a62c683e6",
+          "bytes": 1481349
+        },
+        {
+          "path": "media/5f8c3880aea8f12be17bd51c160b678e0fac23109fcbbc22a4eeb9c99e266ca6.png",
+          "sha256": "5f8c3880aea8f12be17bd51c160b678e0fac23109fcbbc22a4eeb9c99e266ca6",
+          "bytes": 918132
+        },
+        {
+          "path": "media/27d5af043b4d41acd600de34666c4aee137ca01518291d0e4e5fd6c56be83be6.png",
+          "sha256": "27d5af043b4d41acd600de34666c4aee137ca01518291d0e4e5fd6c56be83be6",
+          "bytes": 1508604
+        },
+        {
+          "path": "media/00530aeaadf6e37e90051f9021db9a2ee0c3b02e4bab073b95df4bc84583ff69.png",
+          "sha256": "00530aeaadf6e37e90051f9021db9a2ee0c3b02e4bab073b95df4bc84583ff69",
+          "bytes": 1649658
+        },
+        {
+          "path": "media/6d20823ab78b13a7a67af6800dcda408a9844600bd4a3b6bd429283444397d03.png",
+          "sha256": "6d20823ab78b13a7a67af6800dcda408a9844600bd4a3b6bd429283444397d03",
+          "bytes": 1783740
+        },
+        {
+          "path": "media/d04fc421c750e955ad4ea9b0f970dd03bc0c7c1ca9b19bfb6ded81867c65b3f7.png",
+          "sha256": "d04fc421c750e955ad4ea9b0f970dd03bc0c7c1ca9b19bfb6ded81867c65b3f7",
+          "bytes": 1016871
+        },
+        {
+          "path": "media/7758bd8410a2874a3f97d16c67cb0b6250ad540e1672ea526222e1f42a529336.png",
+          "sha256": "7758bd8410a2874a3f97d16c67cb0b6250ad540e1672ea526222e1f42a529336",
+          "bytes": 246548
+        },
+        {
+          "path": "media/69bc48e2321789d380fca71cdfff7091651c5cab55b033463589b7b8aaad683d.gif",
+          "sha256": "69bc48e2321789d380fca71cdfff7091651c5cab55b033463589b7b8aaad683d",
+          "bytes": 1465627
+        },
+        {
+          "path": "media/5db19e05d4f8ec813a8b7424b46ada884ed474900a29e370c526a7684c243902.png",
+          "sha256": "5db19e05d4f8ec813a8b7424b46ada884ed474900a29e370c526a7684c243902",
+          "bytes": 1200472
+        },
+        {
+          "path": "media/f9fe0954bb0b9f1e0f0d94ee4a5c7f0192d7afc93add00c343c7aa5312d1358b.png",
+          "sha256": "f9fe0954bb0b9f1e0f0d94ee4a5c7f0192d7afc93add00c343c7aa5312d1358b",
+          "bytes": 1744361
+        },
+        {
+          "path": "media/48f0e1e14e8aed7cf80fbf948f8eea94e2c1fa25ad74812e52a3611f6878822f.png",
+          "sha256": "48f0e1e14e8aed7cf80fbf948f8eea94e2c1fa25ad74812e52a3611f6878822f",
+          "bytes": 1725435
+        },
+        {
+          "path": "media/e0cdcfe3f50e282e918b077b7a3bf1c0a6353bf23d8ed3635af6867f10be6c12.png",
+          "sha256": "e0cdcfe3f50e282e918b077b7a3bf1c0a6353bf23d8ed3635af6867f10be6c12",
+          "bytes": 1399116
+        },
+        {
+          "path": "media/739028adcf2b4fc515cd28da5cdd8e74909234ad51baee8b4a77ac72147f5b12.png",
+          "sha256": "739028adcf2b4fc515cd28da5cdd8e74909234ad51baee8b4a77ac72147f5b12",
+          "bytes": 947798
+        },
+        {
+          "path": "media/e390464e947e55b25395d3d1d09238a774d51e3e6b0337547672f1c7bbbf55cb.png",
+          "sha256": "e390464e947e55b25395d3d1d09238a774d51e3e6b0337547672f1c7bbbf55cb",
+          "bytes": 1863914
+        },
+        {
+          "path": "media/a86a1ff0da355d0dbe80c4179186cd7af7ba2509d442302f3840ec79706b7099.png",
+          "sha256": "a86a1ff0da355d0dbe80c4179186cd7af7ba2509d442302f3840ec79706b7099",
+          "bytes": 1708908
+        },
+        {
+          "path": "media/a9fcfb4d0eeb39bc6f60b24b099ef75f1281a969cdd3eb4a837f1e29eb8b6e70.png",
+          "sha256": "a9fcfb4d0eeb39bc6f60b24b099ef75f1281a969cdd3eb4a837f1e29eb8b6e70",
+          "bytes": 1349003
+        },
+        {
+          "path": "media/11c52d6a35ecd73ffb8f24bea4349c3f2d1ea070c0daac024c0334b8f6b12ad4.png",
+          "sha256": "11c52d6a35ecd73ffb8f24bea4349c3f2d1ea070c0daac024c0334b8f6b12ad4",
+          "bytes": 1128198
+        },
+        {
+          "path": "media/3868b4b61daf6a8d1103340a54c57345f00b9cde834bf36bbf81e370bdb808fe.png",
+          "sha256": "3868b4b61daf6a8d1103340a54c57345f00b9cde834bf36bbf81e370bdb808fe",
+          "bytes": 1358967
+        },
+        {
+          "path": "media/98669e396fe03a7afdcab1d5b7baa34156fc8de9056cac21edf2f6db5873a218.png",
+          "sha256": "98669e396fe03a7afdcab1d5b7baa34156fc8de9056cac21edf2f6db5873a218",
+          "bytes": 1267371
+        },
+        {
+          "path": "media/508eb835a52e209985cb74f11e90040f999d84e53d8d175141947acea22f42c5.png",
+          "sha256": "508eb835a52e209985cb74f11e90040f999d84e53d8d175141947acea22f42c5",
+          "bytes": 2220222
+        },
+        {
+          "path": "media/4f4b014008ed0807c242a38fa5b8e1faf5504a3a143a679db20a2d4689ac725a.png",
+          "sha256": "4f4b014008ed0807c242a38fa5b8e1faf5504a3a143a679db20a2d4689ac725a",
+          "bytes": 2808808
+        },
+        {
+          "path": "media/7c493ad633231bdbc8086c88a86740ad6012816437eb1d2a08b5ec5a6b1f7eba.png",
+          "sha256": "7c493ad633231bdbc8086c88a86740ad6012816437eb1d2a08b5ec5a6b1f7eba",
+          "bytes": 1270190
+        },
+        {
+          "path": "media/88e37b2ad3aa4a0a820b9514704370351a0a30ed655120982d64021c947e90f9.png",
+          "sha256": "88e37b2ad3aa4a0a820b9514704370351a0a30ed655120982d64021c947e90f9",
+          "bytes": 1358165
+        },
+        {
+          "path": "media/90d8477e787ea8d73fb67916ae2c0e61dd9b065e33d7f71b4d161bc250ef7784.png",
+          "sha256": "90d8477e787ea8d73fb67916ae2c0e61dd9b065e33d7f71b4d161bc250ef7784",
+          "bytes": 1314852
+        },
+        {
+          "path": "media/926439d3c41ab3a44b2cc89394bcb23418067c32d4968890d577834532430cba.png",
+          "sha256": "926439d3c41ab3a44b2cc89394bcb23418067c32d4968890d577834532430cba",
+          "bytes": 3055262
+        },
+        {
+          "path": "media/24f328c7d0104f0cbd914987928f3619f635f6f88008e12af2291198fc6e3214.png",
+          "sha256": "24f328c7d0104f0cbd914987928f3619f635f6f88008e12af2291198fc6e3214",
+          "bytes": 2323031
+        },
+        {
+          "path": "media/7f4404bb0930d272e28002ee631ad22ef6c9b53fec059bfd2d90415190db2c77.png",
+          "sha256": "7f4404bb0930d272e28002ee631ad22ef6c9b53fec059bfd2d90415190db2c77",
+          "bytes": 218499
+        },
+        {
+          "path": "media/5c1638b6027f464dae09a83ab9dad620cf2e09f5e9f69dc3d51ed2f902d47573.png",
+          "sha256": "5c1638b6027f464dae09a83ab9dad620cf2e09f5e9f69dc3d51ed2f902d47573",
+          "bytes": 2730304
+        },
+        {
+          "path": "media/c43931a3c6dc356eb42b263e895ec6a039a49d02f26c6e3aa1775eb28261c439.png",
+          "sha256": "c43931a3c6dc356eb42b263e895ec6a039a49d02f26c6e3aa1775eb28261c439",
+          "bytes": 1831895
+        },
+        {
+          "path": "media/4cf2907f43d27d9797fceabc813a75dbf1914664cfb456fbfd061edd9177fe43.png",
+          "sha256": "4cf2907f43d27d9797fceabc813a75dbf1914664cfb456fbfd061edd9177fe43",
+          "bytes": 3268942
+        },
+        {
+          "path": "media/17d68b623880a83a2aeabbb544565a7fb2548f4d3b5ae7671cae6980ce9d003b.png",
+          "sha256": "17d68b623880a83a2aeabbb544565a7fb2548f4d3b5ae7671cae6980ce9d003b",
+          "bytes": 1316010
+        },
+        {
+          "path": "media/d6c17a1de5eafec760d6d70e2b5b1242c7fc301f5cd0daa0285289764e00d840.png",
+          "sha256": "d6c17a1de5eafec760d6d70e2b5b1242c7fc301f5cd0daa0285289764e00d840",
+          "bytes": 1213199
+        },
+        {
+          "path": "media/295fa1ba06f1ebe196e0c280d720eebe88fc1b6d8dedd7e34baa3f2123c18050.png",
+          "sha256": "295fa1ba06f1ebe196e0c280d720eebe88fc1b6d8dedd7e34baa3f2123c18050",
+          "bytes": 1449980
+        },
+        {
+          "path": "media/917e87d2f7f27b1582c2f8185b5063a896d026d21d2595b76005fdefd8e32f50.png",
+          "sha256": "917e87d2f7f27b1582c2f8185b5063a896d026d21d2595b76005fdefd8e32f50",
+          "bytes": 2135862
+        },
+        {
+          "path": "media/42c3def4b0597e46fbcb968906a36032237cb428a26019481d287a9e46f2153d.png",
+          "sha256": "42c3def4b0597e46fbcb968906a36032237cb428a26019481d287a9e46f2153d",
+          "bytes": 1191468
+        },
+        {
+          "path": "media/b7ea0d07814ea10b420a5f9e56e9d804df104ed9c9dc41343c36d42ceaaa7c61.png",
+          "sha256": "b7ea0d07814ea10b420a5f9e56e9d804df104ed9c9dc41343c36d42ceaaa7c61",
+          "bytes": 1303794
+        },
+        {
+          "path": "media/b3ca67f38f94db06ebcb5a49bb5a9e8206ddd95a6aba367317dafa74dc6d6f5a.png",
+          "sha256": "b3ca67f38f94db06ebcb5a49bb5a9e8206ddd95a6aba367317dafa74dc6d6f5a",
+          "bytes": 98898
+        },
+        {
+          "path": "media/7399f838603e722dd20e1239ab4ebdd691bece72e4e0dd1f68f9311af1e369af.png",
+          "sha256": "7399f838603e722dd20e1239ab4ebdd691bece72e4e0dd1f68f9311af1e369af",
+          "bytes": 1153565
+        },
+        {
+          "path": "media/631cb8675d6fae2e4a2938532d401d1b071856b7902ec8dd68606f696c8c5eab.png",
+          "sha256": "631cb8675d6fae2e4a2938532d401d1b071856b7902ec8dd68606f696c8c5eab",
+          "bytes": 1355075
+        },
+        {
+          "path": "media/beeeb7606afa82c8366a773a8af451256abacf90f3cb13fcc579627b505db5ae.png",
+          "sha256": "beeeb7606afa82c8366a773a8af451256abacf90f3cb13fcc579627b505db5ae",
+          "bytes": 2337744
+        },
+        {
+          "path": "media/75b33c372b9ea4262db1b37493b4f38bee248bac6dd8d015f2e1b40d79da3cac.png",
+          "sha256": "75b33c372b9ea4262db1b37493b4f38bee248bac6dd8d015f2e1b40d79da3cac",
+          "bytes": 1393220
+        },
+        {
+          "path": "media/a37797e1dbbf7038567180d9026553d3c5a392e631d90aa0871e7cc241a17a8e.png",
+          "sha256": "a37797e1dbbf7038567180d9026553d3c5a392e631d90aa0871e7cc241a17a8e",
+          "bytes": 3060569
+        },
+        {
+          "path": "media/7581e3c0069a72e14a293516347775cdfc9267d219ab5250e22c23c048a1f757.png",
+          "sha256": "7581e3c0069a72e14a293516347775cdfc9267d219ab5250e22c23c048a1f757",
+          "bytes": 1229849
+        },
+        {
+          "path": "media/9c1066065bf0c4b49a01d798f9559e092f9695965ac8274d93af891dfb003216.png",
+          "sha256": "9c1066065bf0c4b49a01d798f9559e092f9695965ac8274d93af891dfb003216",
+          "bytes": 1591212
+        },
+        {
+          "path": "media/fa271b5ca602469b91ac8bcde7178a1986cfb2b285be50e66af7004caf0ff5ce.png",
+          "sha256": "fa271b5ca602469b91ac8bcde7178a1986cfb2b285be50e66af7004caf0ff5ce",
+          "bytes": 1085435
+        },
+        {
+          "path": "media/711eedd67bdb2e7a61281900636b6eaf07d22ede6689b89146d6990f911dc3c5.png",
+          "sha256": "711eedd67bdb2e7a61281900636b6eaf07d22ede6689b89146d6990f911dc3c5",
+          "bytes": 399050
+        },
+        {
+          "path": "media/34d2dcf98a50ec098ec8a8568b5a9c1c231c1a7b635946f2ea7dabe169ef24b7.png",
+          "sha256": "34d2dcf98a50ec098ec8a8568b5a9c1c231c1a7b635946f2ea7dabe169ef24b7",
+          "bytes": 1467779
+        },
+        {
+          "path": "media/fda2bb87fbd3bf16b0cf038b5ea887d0294069c5ecb31336b4d0959e7382963a.png",
+          "sha256": "fda2bb87fbd3bf16b0cf038b5ea887d0294069c5ecb31336b4d0959e7382963a",
+          "bytes": 1391446
+        },
+        {
+          "path": "media/1f6363dd4ef49ea7c8f298673c1e303b80d6194ecbdb8d7c734ec8d9b14d5c06.png",
+          "sha256": "1f6363dd4ef49ea7c8f298673c1e303b80d6194ecbdb8d7c734ec8d9b14d5c06",
+          "bytes": 1489229
+        },
+        {
+          "path": "media/3e7629a2af0fafd0844db86f0b24c432980b5bf225f27ad18804b3945bbaf5b2.png",
+          "sha256": "3e7629a2af0fafd0844db86f0b24c432980b5bf225f27ad18804b3945bbaf5b2",
+          "bytes": 1615510
+        },
+        {
+          "path": "media/dd6ad976a285ba453dacb89787df6e29ecc123445b4b09d3d1e4e5b1532eba57.png",
+          "sha256": "dd6ad976a285ba453dacb89787df6e29ecc123445b4b09d3d1e4e5b1532eba57",
+          "bytes": 1554208
+        },
+        {
+          "path": "media/9aec0b49832fb0e0e62a6f5d36cb6c62c0225a7884c1e41f99ce4c9472ebd2cb.png",
+          "sha256": "9aec0b49832fb0e0e62a6f5d36cb6c62c0225a7884c1e41f99ce4c9472ebd2cb",
+          "bytes": 2298766
+        },
+        {
+          "path": "media/59f91131fd854304b16fe0154d291219932c2c72cae9dedd73cc53d4d5d43ca8.png",
+          "sha256": "59f91131fd854304b16fe0154d291219932c2c72cae9dedd73cc53d4d5d43ca8",
+          "bytes": 1153393
+        },
+        {
+          "path": "media/dc9bcb3f4c98837a1bd4ca5d23b23eb58ff76622bbd83c72e61a62c3da43aa6a.png",
+          "sha256": "dc9bcb3f4c98837a1bd4ca5d23b23eb58ff76622bbd83c72e61a62c3da43aa6a",
+          "bytes": 568484
+        },
+        {
+          "path": "media/c8c9a6baf8aa26f2bb74d9c6803c8373badafefd19bbdcc31ac0445fff62febf.png",
+          "sha256": "c8c9a6baf8aa26f2bb74d9c6803c8373badafefd19bbdcc31ac0445fff62febf",
+          "bytes": 115443
+        },
+        {
+          "path": "media/b1c078d6f956b6178e9bcfa4871b08a46a61fd585cbc89fec47516e674244a07.png",
+          "sha256": "b1c078d6f956b6178e9bcfa4871b08a46a61fd585cbc89fec47516e674244a07",
+          "bytes": 106865
+        },
+        {
+          "path": "media/a824f22e621ca1ce3a7732a888cefb05a9a497a8c7c43f2602269d4834b77204.png",
+          "sha256": "a824f22e621ca1ce3a7732a888cefb05a9a497a8c7c43f2602269d4834b77204",
+          "bytes": 603440
+        },
+        {
+          "path": "media/469b4f3ad9d053182768f11860ded6b1440fe1c5988f66927380a2291b874db4.png",
+          "sha256": "469b4f3ad9d053182768f11860ded6b1440fe1c5988f66927380a2291b874db4",
+          "bytes": 290501
+        },
+        {
+          "path": "media/5d38876e04f062aef5548e11653aa4715f03e4da6cbe2d1b024bcb6b9a90ecbf.png",
+          "sha256": "5d38876e04f062aef5548e11653aa4715f03e4da6cbe2d1b024bcb6b9a90ecbf",
+          "bytes": 325805
+        },
+        {
+          "path": "media/ca17e784035cf6e81598cb8357a2063b41baa92940773ac7e807121192c6f218.png",
+          "sha256": "ca17e784035cf6e81598cb8357a2063b41baa92940773ac7e807121192c6f218",
+          "bytes": 429215
+        },
+        {
+          "path": "media/2db24290941ff7ef587c58fc410cea70b9200e19e6ef463cc9d6b3592ccfd977.png",
+          "sha256": "2db24290941ff7ef587c58fc410cea70b9200e19e6ef463cc9d6b3592ccfd977",
+          "bytes": 534145
+        },
+        {
+          "path": "media/03ddd87b6b689901a7bcf5c83e57deb7d03d7a1ccb666529eef9b00b21207166.webp",
+          "sha256": "03ddd87b6b689901a7bcf5c83e57deb7d03d7a1ccb666529eef9b00b21207166",
+          "bytes": 20616
+        },
+        {
+          "path": "media/d84b264dde525a1ad5d347c2dfd8bea235097a5683b772b037e8ba72cafd0a96.png",
+          "sha256": "d84b264dde525a1ad5d347c2dfd8bea235097a5683b772b037e8ba72cafd0a96",
+          "bytes": 19357
+        },
+        {
+          "path": "media/45ef2155e729a2b122888be102a0b5bb63a8f0d59e0ed0fcf7043e447951f01a.jpg",
+          "sha256": "45ef2155e729a2b122888be102a0b5bb63a8f0d59e0ed0fcf7043e447951f01a",
+          "bytes": 61801
+        },
+        {
+          "path": "media/ff5318590abd8c60a5e10e97462a2ba52fee2fc9f45d51932ab2c75c847714dc.jpg",
+          "sha256": "ff5318590abd8c60a5e10e97462a2ba52fee2fc9f45d51932ab2c75c847714dc",
+          "bytes": 71201
+        },
+        {
+          "path": "media/3b2c809acf6fadcea2f4bf5f0427ca04adba3e967f2731c84bbc36eceef97821.jpg",
+          "sha256": "3b2c809acf6fadcea2f4bf5f0427ca04adba3e967f2731c84bbc36eceef97821",
+          "bytes": 90557
+        },
+        {
+          "path": "media/0c7a644238793a3462ce639ef937a9e1699bfac4a54844c355d928c804b0aae8.png",
+          "sha256": "0c7a644238793a3462ce639ef937a9e1699bfac4a54844c355d928c804b0aae8",
+          "bytes": 6906
+        },
+        {
+          "path": "media/ec82d37a107d6171284e62aab34d377ebbc7ee76926949f302241defae90d482.png",
+          "sha256": "ec82d37a107d6171284e62aab34d377ebbc7ee76926949f302241defae90d482",
+          "bytes": 591960
+        },
+        {
+          "path": "media/04959d1bcbfdc0e9e7b179522d416fb5ef0f14ee22df42cd17fb2d9c43c8c8d8.jpg",
+          "sha256": "04959d1bcbfdc0e9e7b179522d416fb5ef0f14ee22df42cd17fb2d9c43c8c8d8",
+          "bytes": 67896
+        },
+        {
+          "path": "media/6ab87f430f5f47d798c76cfb5eb64535660e946b12584daf1c3a324a6cf3ba92.png",
+          "sha256": "6ab87f430f5f47d798c76cfb5eb64535660e946b12584daf1c3a324a6cf3ba92",
+          "bytes": 626718
+        },
+        {
+          "path": "media/fd02b9d61c7c2af69dcbc016e23093086addd99a90998b02a5e8699de176bdd4.png",
+          "sha256": "fd02b9d61c7c2af69dcbc016e23093086addd99a90998b02a5e8699de176bdd4",
+          "bytes": 14648
+        },
+        {
+          "path": "media/72bf17afc586369571558722539ed2e5de9adae72a2bea6b52ee9935c24c4dcc.png",
+          "sha256": "72bf17afc586369571558722539ed2e5de9adae72a2bea6b52ee9935c24c4dcc",
+          "bytes": 478463
+        },
+        {
+          "path": "media/10761937b031cda411de113fe5d9cca4f680c7679e1c297880fb57ae15be5457.png",
+          "sha256": "10761937b031cda411de113fe5d9cca4f680c7679e1c297880fb57ae15be5457",
+          "bytes": 613035
+        },
+        {
+          "path": "media/b5743ff9b240eee53825415636fb781f18cf1335386bde2cc8e4f1b3559d08af.png",
+          "sha256": "b5743ff9b240eee53825415636fb781f18cf1335386bde2cc8e4f1b3559d08af",
+          "bytes": 413415
+        },
+        {
+          "path": "media/b3abae51f72a74580072b6df157aafdce3f7451958a33ce798a3d3038c1f03e4.png",
+          "sha256": "b3abae51f72a74580072b6df157aafdce3f7451958a33ce798a3d3038c1f03e4",
+          "bytes": 7293
+        },
+        {
+          "path": "media/bfd942b2c449440c403414f700d64488c8d98f915b60dd7eb199557fc7176933.gif",
+          "sha256": "bfd942b2c449440c403414f700d64488c8d98f915b60dd7eb199557fc7176933",
+          "bytes": 197722
+        }
+      ]
+    },
+    {
+      "itemId": "968c8208-6b93-4f42-9439-833adca21335",
+      "sourceSlug": "wechat-archrace",
+      "account": "archrace",
+      "title": "竞赛 | 致敬卡洛·斯卡帕：意大利奎里尼·斯坦帕利亚基金会底层空间改造竞赛",
+      "publishedAt": "2026-11-13T00:30:00.000Z",
+      "articlePath": "articles/wechat-archrace/1c050bf730378337c299134661f0d9bb974408d190952ef708729464e0ec7a8a/article.md",
+      "articleSha256": "caf5903c635cbd020ccea6f474d89988f39bff93cd55e718cd510445af8a1825",
+      "files": [
+        {
+          "path": "articles/wechat-archrace/1c050bf730378337c299134661f0d9bb974408d190952ef708729464e0ec7a8a/article.md",
+          "sha256": "caf5903c635cbd020ccea6f474d89988f39bff93cd55e718cd510445af8a1825",
+          "bytes": 4266
+        },
+        {
+          "path": "media/e7ea17d801f0d5f90aacb67f6c06eae92c21cb54ca5d360ee8109dadca032584.jpg",
+          "sha256": "e7ea17d801f0d5f90aacb67f6c06eae92c21cb54ca5d360ee8109dadca032584",
+          "bytes": 63530
+        },
+        {
+          "path": "media/e2bb48fea01c80a3076ef9778837772cbad16221e24e8201e7499391b3809c37.gif",
+          "sha256": "e2bb48fea01c80a3076ef9778837772cbad16221e24e8201e7499391b3809c37",
+          "bytes": 14245
+        },
+        {
+          "path": "media/3964312384a3028ae7636bc851902198283f32f9e9ea000405a507fb8b512b04.jpg",
+          "sha256": "3964312384a3028ae7636bc851902198283f32f9e9ea000405a507fb8b512b04",
+          "bytes": 140331
+        },
+        {
+          "path": "media/fc75c7232523c73a179bbbff612584f97a43c7e756623e926a0487c40f1c81db.jpg",
+          "sha256": "fc75c7232523c73a179bbbff612584f97a43c7e756623e926a0487c40f1c81db",
+          "bytes": 8490
+        },
+        {
+          "path": "media/2173a459b308d5d83a0a7684e74dd24bf656a9c6d22b8ddaa0be93195cf1b480.jpg",
+          "sha256": "2173a459b308d5d83a0a7684e74dd24bf656a9c6d22b8ddaa0be93195cf1b480",
+          "bytes": 8672
+        },
+        {
+          "path": "media/1fc10908a57cbb8b1531153bdc7c683cca4e2b94367f6a371781d48678bb3cf7.jpg",
+          "sha256": "1fc10908a57cbb8b1531153bdc7c683cca4e2b94367f6a371781d48678bb3cf7",
+          "bytes": 6684
+        },
+        {
+          "path": "media/f0bd984e4d9c6a4f24c52870ed4bde9aa0735d3ace4302770d744229105a8f7f.jpg",
+          "sha256": "f0bd984e4d9c6a4f24c52870ed4bde9aa0735d3ace4302770d744229105a8f7f",
+          "bytes": 6592
+        },
+        {
+          "path": "media/27ed18045c7695cbc603b7a328c0e35bba84324b04f48379bc99171c921c288b.jpg",
+          "sha256": "27ed18045c7695cbc603b7a328c0e35bba84324b04f48379bc99171c921c288b",
+          "bytes": 6275
+        },
+        {
+          "path": "media/af0b57eeb653a80002cac14551ddddc17a6e8690b600c33d5ead07a43d5b088f.jpg",
+          "sha256": "af0b57eeb653a80002cac14551ddddc17a6e8690b600c33d5ead07a43d5b088f",
+          "bytes": 6807
+        }
+      ]
+    },
+    {
+      "itemId": "3d27f2d3-936b-4df9-b941-0af84229004a",
+      "sourceSlug": "wechat-competition",
+      "account": "设计竞赛圈",
+      "title": "竞赛方案丨波兰孔斯凯地方法院和地区检察官办公室建筑设计竞赛荣誉提名奖",
+      "publishedAt": "2026-11-13T03:57:00.000Z",
+      "articlePath": "articles/wechat-competition/49949d97bba8cab6c665d890e1c5475b19ec9c8f96e3675520658bbe2dc73732/article.md",
+      "articleSha256": "48587eec2dfa93959b7fa0c778a3a650ba7698fd23abb178b4b6aadadf0edcdd",
+      "files": [
+        {
+          "path": "articles/wechat-competition/49949d97bba8cab6c665d890e1c5475b19ec9c8f96e3675520658bbe2dc73732/article.md",
+          "sha256": "48587eec2dfa93959b7fa0c778a3a650ba7698fd23abb178b4b6aadadf0edcdd",
+          "bytes": 3760
+        },
+        {
+          "path": "media/eb818b314bb510ec8168458be3991f445d1a0a333b71fde05750822121fac5a5.jpg",
+          "sha256": "eb818b314bb510ec8168458be3991f445d1a0a333b71fde05750822121fac5a5",
+          "bytes": 181031
+        },
+        {
+          "path": "media/5af2b992dab784e487360d839645b96ba840756743763604e318f29b1b32f821.jpg",
+          "sha256": "5af2b992dab784e487360d839645b96ba840756743763604e318f29b1b32f821",
+          "bytes": 156450
+        },
+        {
+          "path": "media/72562052e2861f5bb296b8d48cceeba7bbfc86e71d0193042c07ec898640b62c.jpg",
+          "sha256": "72562052e2861f5bb296b8d48cceeba7bbfc86e71d0193042c07ec898640b62c",
+          "bytes": 141887
+        },
+        {
+          "path": "media/313f7fd90d4383c865de6f4598969c97d670a72417a6d6733641e097d54bc922.jpg",
+          "sha256": "313f7fd90d4383c865de6f4598969c97d670a72417a6d6733641e097d54bc922",
+          "bytes": 224281
+        },
+        {
+          "path": "media/b6e86b8a25697148dbc4b19802d18c6fdd76873d12c9bacd43469a5d186e9c42.jpg",
+          "sha256": "b6e86b8a25697148dbc4b19802d18c6fdd76873d12c9bacd43469a5d186e9c42",
+          "bytes": 150749
+        },
+        {
+          "path": "media/4758ccbe08b7aabee3df19aec8769417d720852f1d445805422bd4a1266d0b4e.jpg",
+          "sha256": "4758ccbe08b7aabee3df19aec8769417d720852f1d445805422bd4a1266d0b4e",
+          "bytes": 62355
+        },
+        {
+          "path": "media/952324a02530c56d39936e19cc2f938d237bb4598ae51331fe3f888eef3f28fb.png",
+          "sha256": "952324a02530c56d39936e19cc2f938d237bb4598ae51331fe3f888eef3f28fb",
+          "bytes": 326710
+        },
+        {
+          "path": "media/ac4decdd39a7d38e9b3b529e291ac25565776a5f71ee9a2afdfaf33dd2f1e801.jpg",
+          "sha256": "ac4decdd39a7d38e9b3b529e291ac25565776a5f71ee9a2afdfaf33dd2f1e801",
+          "bytes": 74117
+        },
+        {
+          "path": "media/16268a1a9365120a711dff241820e79538cb20793fb701216eb25c5883a81dbc.webp",
+          "sha256": "16268a1a9365120a711dff241820e79538cb20793fb701216eb25c5883a81dbc",
+          "bytes": 50590
+        },
+        {
+          "path": "media/11832ddded04e0f61afd10c501a433e22d42e20a4ffac0dd10836431d1d3e8db.webp",
+          "sha256": "11832ddded04e0f61afd10c501a433e22d42e20a4ffac0dd10836431d1d3e8db",
+          "bytes": 33124
+        }
+      ]
+    },
+    {
+      "itemId": "a74ed32f-6c2f-4007-9ce2-8022a2f5d9f2",
+      "sourceSlug": "wechat-gooood",
+      "account": "gooood谷德设计网",
+      "title": "Foster + Partners｜美国Oracle甲骨文全球总部园区",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "articlePath": "articles/wechat-gooood/6c6b2440b0f706a505b6e41c4282b1826ccfb28a7cfbfcbe645db5b89c0defd4/article.md",
+      "articleSha256": "6962af72ee6ac28baa887e2c58f4644d71ef8a3c4530eb01f36feed0d999a00c",
+      "files": [
+        {
+          "path": "articles/wechat-gooood/6c6b2440b0f706a505b6e41c4282b1826ccfb28a7cfbfcbe645db5b89c0defd4/article.md",
+          "sha256": "6962af72ee6ac28baa887e2c58f4644d71ef8a3c4530eb01f36feed0d999a00c",
+          "bytes": 6894
+        },
+        {
+          "path": "media/de461c140d4f16df34dd6d82b45f830466b5bc3828d398c3ca9fccbd6e2ae4b3.jpg",
+          "sha256": "de461c140d4f16df34dd6d82b45f830466b5bc3828d398c3ca9fccbd6e2ae4b3",
+          "bytes": 68438
+        },
+        {
+          "path": "media/4f3067d6d57c67ca1d8a9fea3740b5fcc13430079ef7c329ccfe43ea7845411f.gif",
+          "sha256": "4f3067d6d57c67ca1d8a9fea3740b5fcc13430079ef7c329ccfe43ea7845411f",
+          "bytes": 28930
+        },
+        {
+          "path": "media/577430bd524e53e1cbe0237e590f5de9033dc2c851e88fe65a8ae1aab0e032cb.gif",
+          "sha256": "577430bd524e53e1cbe0237e590f5de9033dc2c851e88fe65a8ae1aab0e032cb",
+          "bytes": 16330
+        },
+        {
+          "path": "media/f2828146c324400113b7f013d60864f90179e334f8eb6f2385aad9f5d049cc53.jpg",
+          "sha256": "f2828146c324400113b7f013d60864f90179e334f8eb6f2385aad9f5d049cc53",
+          "bytes": 23737
+        },
+        {
+          "path": "media/ab14b9ce148815536f38dd983e324d1f910f715968a4e1fa1c389b6e3274d57f.jpg",
+          "sha256": "ab14b9ce148815536f38dd983e324d1f910f715968a4e1fa1c389b6e3274d57f",
+          "bytes": 124355
+        },
+        {
+          "path": "media/554413c0695969439ed2c1f2afb58e32f0f98d4b1ba79506f5978f3063bb7c40.jpg",
+          "sha256": "554413c0695969439ed2c1f2afb58e32f0f98d4b1ba79506f5978f3063bb7c40",
+          "bytes": 130122
+        },
+        {
+          "path": "media/7e28ef63279da30822633cfba7bc29a421963c09f65e42c2f1821f7b9d125257.jpg",
+          "sha256": "7e28ef63279da30822633cfba7bc29a421963c09f65e42c2f1821f7b9d125257",
+          "bytes": 149853
+        },
+        {
+          "path": "media/7e327835eb56a4057346a47299833080e558b50308241b64902770346ab9d077.jpg",
+          "sha256": "7e327835eb56a4057346a47299833080e558b50308241b64902770346ab9d077",
+          "bytes": 101878
+        },
+        {
+          "path": "media/a2d133533fe2666b44c255892d76e3357557219cd070eea8d43399dc56e3dc73.jpg",
+          "sha256": "a2d133533fe2666b44c255892d76e3357557219cd070eea8d43399dc56e3dc73",
+          "bytes": 195524
+        },
+        {
+          "path": "media/209bf151419cd742a41816e95db3cfde3c98df0ab1a888a1a9b51cd4fbd7e28f.jpg",
+          "sha256": "209bf151419cd742a41816e95db3cfde3c98df0ab1a888a1a9b51cd4fbd7e28f",
+          "bytes": 142722
+        },
+        {
+          "path": "media/f4dcb044fe86da60fd9895b6b532a2b2dc36e25bcac94a91c1729fe6b36d2c67.jpg",
+          "sha256": "f4dcb044fe86da60fd9895b6b532a2b2dc36e25bcac94a91c1729fe6b36d2c67",
+          "bytes": 194346
+        },
+        {
+          "path": "media/006c57221546cc949f3045d5f7aeef860e4e59e0b1342abe0fd736e40de89211.jpg",
+          "sha256": "006c57221546cc949f3045d5f7aeef860e4e59e0b1342abe0fd736e40de89211",
+          "bytes": 129726
+        },
+        {
+          "path": "media/8bdbdc5e014118fe15e0aa80858378d5664d4fe002a9e78466f265a58a6dcb72.jpg",
+          "sha256": "8bdbdc5e014118fe15e0aa80858378d5664d4fe002a9e78466f265a58a6dcb72",
+          "bytes": 158365
+        },
+        {
+          "path": "media/29edca0d04afa952cc48a50f736c2c29e604e83f736005759187dba58401845c.png",
+          "sha256": "29edca0d04afa952cc48a50f736c2c29e604e83f736005759187dba58401845c",
+          "bytes": 65717
+        },
+        {
+          "path": "media/25eaba3ad9807759504151b99ad95ef24d210c875b25a09806765f168c21b911.png",
+          "sha256": "25eaba3ad9807759504151b99ad95ef24d210c875b25a09806765f168c21b911",
+          "bytes": 68780
+        },
+        {
+          "path": "media/29dd7484b80d7418aacc3ef576f8140db165da98db61e71576355a2542341d15.png",
+          "sha256": "29dd7484b80d7418aacc3ef576f8140db165da98db61e71576355a2542341d15",
+          "bytes": 76595
+        },
+        {
+          "path": "media/1a06f3761bb3dad8e25217d97c98f2fafc0a934913794933c8ddcc533bf672ab.png",
+          "sha256": "1a06f3761bb3dad8e25217d97c98f2fafc0a934913794933c8ddcc533bf672ab",
+          "bytes": 67297
+        },
+        {
+          "path": "media/9260182289c8307b113e4574fe5a297dd5e447a81a826e371e13cbc43075859d.png",
+          "sha256": "9260182289c8307b113e4574fe5a297dd5e447a81a826e371e13cbc43075859d",
+          "bytes": 69788
+        },
+        {
+          "path": "media/64b39db80d05d1fbf55eeaf481dd35506ec47368b0f97af4668f67ff54330a0e.png",
+          "sha256": "64b39db80d05d1fbf55eeaf481dd35506ec47368b0f97af4668f67ff54330a0e",
+          "bytes": 64613
+        },
+        {
+          "path": "media/72f414c4cb59ca9f823b31b9b91068e8447e3f78060a6d7e1cfc64b812f256f1.png",
+          "sha256": "72f414c4cb59ca9f823b31b9b91068e8447e3f78060a6d7e1cfc64b812f256f1",
+          "bytes": 239739
+        },
+        {
+          "path": "media/534e66c4e906d926c93bc4321890d63e00d6654ab03da6341edd8e4ca62dbf54.jpg",
+          "sha256": "534e66c4e906d926c93bc4321890d63e00d6654ab03da6341edd8e4ca62dbf54",
+          "bytes": 169578
+        },
+        {
+          "path": "media/13365e7a39bc396e99c5fd55721a35587f9085dcfe8db30db9575868aaa1973e.gif",
+          "sha256": "13365e7a39bc396e99c5fd55721a35587f9085dcfe8db30db9575868aaa1973e",
+          "bytes": 26291
+        }
+      ]
+    },
+    {
+      "itemId": "a3895ab2-08ab-4fc1-9f9a-9afe7d4416e8",
+      "sourceSlug": "wechat-touch",
+      "account": "触摸边际",
+      "title": "gmp中标丨吉达中央开发区体育场",
+      "publishedAt": "2026-11-13T04:12:00.000Z",
+      "articlePath": "articles/wechat-touch/98ee160299fc0bb0388630c538a1307fe6b51efb9c9ab1ab46f6807c95fb4358/article.md",
+      "articleSha256": "94ec06516daa4a3dcdac4cb83c64470e7c0503d6090e23058ad95ab43c43cd40",
+      "files": [
+        {
+          "path": "articles/wechat-touch/98ee160299fc0bb0388630c538a1307fe6b51efb9c9ab1ab46f6807c95fb4358/article.md",
+          "sha256": "94ec06516daa4a3dcdac4cb83c64470e7c0503d6090e23058ad95ab43c43cd40",
+          "bytes": 5420
+        },
+        {
+          "path": "media/a141a26e749a0e325cfb3e8553815440ed7a4b9939fd6f53340b3c5b99bf9382.jpg",
+          "sha256": "a141a26e749a0e325cfb3e8553815440ed7a4b9939fd6f53340b3c5b99bf9382",
+          "bytes": 80723
+        },
+        {
+          "path": "media/0d9eeb359c162ed62ecff7910477eae279e56b979b8bd2c478f2e0c1d0b8abde.jpg",
+          "sha256": "0d9eeb359c162ed62ecff7910477eae279e56b979b8bd2c478f2e0c1d0b8abde",
+          "bytes": 192126
+        },
+        {
+          "path": "media/e97361f6efb2ed8e84966af72f1cc0d55e580f1ae342228bf93ffbe48e63d11d.jpg",
+          "sha256": "e97361f6efb2ed8e84966af72f1cc0d55e580f1ae342228bf93ffbe48e63d11d",
+          "bytes": 150157
+        },
+        {
+          "path": "media/ba13f181ac78542a7d4f881e71efe509c72bb5e0de205ec280ffcfda25134c39.jpg",
+          "sha256": "ba13f181ac78542a7d4f881e71efe509c72bb5e0de205ec280ffcfda25134c39",
+          "bytes": 169595
+        },
+        {
+          "path": "media/f948ad17996715cdbadaf02c8f1027442e1f6486f93f09a4a792b78c688495e7.jpg",
+          "sha256": "f948ad17996715cdbadaf02c8f1027442e1f6486f93f09a4a792b78c688495e7",
+          "bytes": 141288
+        },
+        {
+          "path": "media/70861977a326249c7ed0291707fd1d1812e6b0aedcf896f8bff5f2923d4346cb.jpg",
+          "sha256": "70861977a326249c7ed0291707fd1d1812e6b0aedcf896f8bff5f2923d4346cb",
+          "bytes": 118105
+        },
+        {
+          "path": "media/1619e6ae6413cb48d6201b99b7bc53d2a5110bddc146a86d7e0c6b15b7833d02.jpg",
+          "sha256": "1619e6ae6413cb48d6201b99b7bc53d2a5110bddc146a86d7e0c6b15b7833d02",
+          "bytes": 123149
+        },
+        {
+          "path": "media/65668d0f5b2d6076af762024078c66f4a1bf1d105de926a42a834793479475fc.jpg",
+          "sha256": "65668d0f5b2d6076af762024078c66f4a1bf1d105de926a42a834793479475fc",
+          "bytes": 129381
+        },
+        {
+          "path": "media/97662c9f2260a141d58919e3adb1b7d5aa39b8bdb4d34211e447d6f30ecf2291.jpg",
+          "sha256": "97662c9f2260a141d58919e3adb1b7d5aa39b8bdb4d34211e447d6f30ecf2291",
+          "bytes": 156908
+        },
+        {
+          "path": "media/016a72762125917cd87b213d5c0e9af6ad186fe3b0e708d46b46015e2f8a533c.jpg",
+          "sha256": "016a72762125917cd87b213d5c0e9af6ad186fe3b0e708d46b46015e2f8a533c",
+          "bytes": 160106
+        },
+        {
+          "path": "media/6b271ca1a8d4c3d56c829377d30bd271ea710a93823a22b3647372c4f65bb6eb.jpg",
+          "sha256": "6b271ca1a8d4c3d56c829377d30bd271ea710a93823a22b3647372c4f65bb6eb",
+          "bytes": 68923
+        },
+        {
+          "path": "media/db1635d9a8592671d5b717290872070dbf98fa5be1dc34975fc8aea834281e7a.jpg",
+          "sha256": "db1635d9a8592671d5b717290872070dbf98fa5be1dc34975fc8aea834281e7a",
+          "bytes": 29420
+        },
+        {
+          "path": "media/13e94a0619d7ad7542213a8356d5b5d1686d38ecad9e85483d0ec928db8700c4.jpg",
+          "sha256": "13e94a0619d7ad7542213a8356d5b5d1686d38ecad9e85483d0ec928db8700c4",
+          "bytes": 25757
+        },
+        {
+          "path": "media/375bfc87f612eb317cf2ee772c2084aa45acfb927d93898b6391a00b92b116a9.jpg",
+          "sha256": "375bfc87f612eb317cf2ee772c2084aa45acfb927d93898b6391a00b92b116a9",
+          "bytes": 22040
+        }
+      ]
+    },
+    {
+      "itemId": "8c8171d6-14c0-4451-978e-07503d6742f2",
+      "sourceSlug": "wechat-youth",
+      "account": "青年建筑",
+      "title": "安吉“两山”未来科技城科技人才中心 / ET建筑事务所+ECADI华东建筑设计研究院",
+      "publishedAt": "2026-11-13T13:05:00.000Z",
+      "articlePath": "articles/wechat-youth/66c794493db30b1a72da170633c9e1a8a546037ccd48827bcea0f735cdc69b47/article.md",
+      "articleSha256": "dfb52f61b514e9ecb84252769b495f645fcec6eb380363f4320556593afc9271",
+      "files": [
+        {
+          "path": "articles/wechat-youth/66c794493db30b1a72da170633c9e1a8a546037ccd48827bcea0f735cdc69b47/article.md",
+          "sha256": "dfb52f61b514e9ecb84252769b495f645fcec6eb380363f4320556593afc9271",
+          "bytes": 13191
+        },
+        {
+          "path": "media/8454b130502182ab345918f6f5b220587b832f04f870d656e88afc54a0c062d7.jpg",
+          "sha256": "8454b130502182ab345918f6f5b220587b832f04f870d656e88afc54a0c062d7",
+          "bytes": 51424
+        },
+        {
+          "path": "media/6bcc57de4fa2c3330b051c99c7c6cc2df344addd7c70826ccbb7df9dcc93b36c.webp",
+          "sha256": "6bcc57de4fa2c3330b051c99c7c6cc2df344addd7c70826ccbb7df9dcc93b36c",
+          "bytes": 21372
+        },
+        {
+          "path": "media/5d27e949a1c8cb342bde7e591476946b73f9a9777253086d5aca6a207b4d9eed.jpg",
+          "sha256": "5d27e949a1c8cb342bde7e591476946b73f9a9777253086d5aca6a207b4d9eed",
+          "bytes": 17463
+        },
+        {
+          "path": "media/074e231f0d5d6803de31f34eb0a7a692d550a3844bf4150f25ef77b0c2e2a62f.jpg",
+          "sha256": "074e231f0d5d6803de31f34eb0a7a692d550a3844bf4150f25ef77b0c2e2a62f",
+          "bytes": 102741
+        },
+        {
+          "path": "media/f2d55436ba80a6db5b2aba7b4961d1ab3a76ffd901ffd6e411e8cb639d56b8b5.jpg",
+          "sha256": "f2d55436ba80a6db5b2aba7b4961d1ab3a76ffd901ffd6e411e8cb639d56b8b5",
+          "bytes": 60595
+        },
+        {
+          "path": "media/375828f63a344b89321b8d8f39b6875173de9f432e9ee7cd150d943bf5d25036.jpg",
+          "sha256": "375828f63a344b89321b8d8f39b6875173de9f432e9ee7cd150d943bf5d25036",
+          "bytes": 120134
+        },
+        {
+          "path": "media/9827330b2d631e09d8be48786c3a257150cb8310930285b9cf3ddb0e846de3e5.jpg",
+          "sha256": "9827330b2d631e09d8be48786c3a257150cb8310930285b9cf3ddb0e846de3e5",
+          "bytes": 187126
+        },
+        {
+          "path": "media/36c8b570abc7cb5f281cd3c9907585ed2062598c383ce11f63c49c77448a90d2.jpg",
+          "sha256": "36c8b570abc7cb5f281cd3c9907585ed2062598c383ce11f63c49c77448a90d2",
+          "bytes": 85931
+        },
+        {
+          "path": "media/cabec1f9ca67ecf438c1586f99ffb8c6a2e1104097255f9a54fabf3aeb36df01.jpg",
+          "sha256": "cabec1f9ca67ecf438c1586f99ffb8c6a2e1104097255f9a54fabf3aeb36df01",
+          "bytes": 64099
+        },
+        {
+          "path": "media/f25650d8ef4721f60a504db050c2013195bf9f365db96867514b63cf301e6b3e.jpg",
+          "sha256": "f25650d8ef4721f60a504db050c2013195bf9f365db96867514b63cf301e6b3e",
+          "bytes": 18425
+        },
+        {
+          "path": "media/37570ba9ded5136617131cd0d41f9652f764685af74492a28bd82345bea72661.gif",
+          "sha256": "37570ba9ded5136617131cd0d41f9652f764685af74492a28bd82345bea72661",
+          "bytes": 591633
+        },
+        {
+          "path": "media/cd9567415734be12c8a2b8e67f2b3a272be5d7bc56b6e6bff8d82c2d8a74eb80.jpg",
+          "sha256": "cd9567415734be12c8a2b8e67f2b3a272be5d7bc56b6e6bff8d82c2d8a74eb80",
+          "bytes": 139096
+        },
+        {
+          "path": "media/e6e8f69470705a551b7d33cc095e7dd4fcaddd4613f88b7f588fd3ec83b986db.gif",
+          "sha256": "e6e8f69470705a551b7d33cc095e7dd4fcaddd4613f88b7f588fd3ec83b986db",
+          "bytes": 1003177
+        },
+        {
+          "path": "media/ab7b90f92e34e3639e00da7540cc20e64bbb67ffeb994c0f53c7aa65e2d6fd5d.jpg",
+          "sha256": "ab7b90f92e34e3639e00da7540cc20e64bbb67ffeb994c0f53c7aa65e2d6fd5d",
+          "bytes": 220191
+        },
+        {
+          "path": "media/85dba6e53e57fc9fd605c410ddc833472805e118cbcc761acc78c274ba7d79c1.jpg",
+          "sha256": "85dba6e53e57fc9fd605c410ddc833472805e118cbcc761acc78c274ba7d79c1",
+          "bytes": 127174
+        },
+        {
+          "path": "media/d14d59ad8ea4b72e5eb30849872feee56ec4270f56515c0e17b370ed094333f5.jpg",
+          "sha256": "d14d59ad8ea4b72e5eb30849872feee56ec4270f56515c0e17b370ed094333f5",
+          "bytes": 140614
+        },
+        {
+          "path": "media/7ee14fcb0942b2eb495a432d2d8e5f81c1263f16c0844dd04fe20419fc3bfa9d.jpg",
+          "sha256": "7ee14fcb0942b2eb495a432d2d8e5f81c1263f16c0844dd04fe20419fc3bfa9d",
+          "bytes": 64443
+        },
+        {
+          "path": "media/805448d2d7877747a93bf5b9c7438ffdadcb5eded677aa595c0f7bf73a1cfe8e.jpg",
+          "sha256": "805448d2d7877747a93bf5b9c7438ffdadcb5eded677aa595c0f7bf73a1cfe8e",
+          "bytes": 107113
+        },
+        {
+          "path": "media/eaddbb891605fb50805277a5a4a58f6fa16b9e36424de4362cec3d7f0b4fb97a.jpg",
+          "sha256": "eaddbb891605fb50805277a5a4a58f6fa16b9e36424de4362cec3d7f0b4fb97a",
+          "bytes": 131390
+        },
+        {
+          "path": "media/eb25f8e8d2d8e8f5bf0b01a2e8a0648405315d94ebab6ae59699a4401b68fb8c.jpg",
+          "sha256": "eb25f8e8d2d8e8f5bf0b01a2e8a0648405315d94ebab6ae59699a4401b68fb8c",
+          "bytes": 172632
+        },
+        {
+          "path": "media/5481f94fbf533eec1e4eda4c01e0f4cc0c5fe3e0f075302509259a6232b56b50.jpg",
+          "sha256": "5481f94fbf533eec1e4eda4c01e0f4cc0c5fe3e0f075302509259a6232b56b50",
+          "bytes": 46223
+        },
+        {
+          "path": "media/7750af3d6c847d85ac439f556b7286f46ec4d0b9aff84c400271be5957716863.jpg",
+          "sha256": "7750af3d6c847d85ac439f556b7286f46ec4d0b9aff84c400271be5957716863",
+          "bytes": 179275
+        },
+        {
+          "path": "media/097e75b1019393395747c946c20bb851ae04701a95e4c4a055da329b1df86365.png",
+          "sha256": "097e75b1019393395747c946c20bb851ae04701a95e4c4a055da329b1df86365",
+          "bytes": 2088530
+        },
+        {
+          "path": "media/949f8527dab5b212aa9c85529a89c0960c5e2edde82f7d332f3212f6972b2161.jpg",
+          "sha256": "949f8527dab5b212aa9c85529a89c0960c5e2edde82f7d332f3212f6972b2161",
+          "bytes": 181770
+        },
+        {
+          "path": "media/e73c7bb5e421228104ddfdee0ba6bdc73de0da046138dcdc9c103ebb0928a737.jpg",
+          "sha256": "e73c7bb5e421228104ddfdee0ba6bdc73de0da046138dcdc9c103ebb0928a737",
+          "bytes": 216041
+        },
+        {
+          "path": "media/b25adb9b99245626d60125acc696dab9b5719d8ee56977c81c8c1cf4a992700c.jpg",
+          "sha256": "b25adb9b99245626d60125acc696dab9b5719d8ee56977c81c8c1cf4a992700c",
+          "bytes": 77936
+        },
+        {
+          "path": "media/c058693f03c7436cffdc3d2b49015680986e2c14142388f46da90a04d6e4533e.jpg",
+          "sha256": "c058693f03c7436cffdc3d2b49015680986e2c14142388f46da90a04d6e4533e",
+          "bytes": 177469
+        },
+        {
+          "path": "media/50e13524ce5c82144928e83dd3a15c7dd5a48c2ea30a224d64730949d111b582.png",
+          "sha256": "50e13524ce5c82144928e83dd3a15c7dd5a48c2ea30a224d64730949d111b582",
+          "bytes": 2256829
+        },
+        {
+          "path": "media/cf4b8cbd1b58e09d235339f0958c3f30bc62cd200936148edb989dc0281b4fd7.jpg",
+          "sha256": "cf4b8cbd1b58e09d235339f0958c3f30bc62cd200936148edb989dc0281b4fd7",
+          "bytes": 94646
+        },
+        {
+          "path": "media/7845e241b3166418bef7ba459b218d489d21beecac7818b88b88fb906d5f399a.jpg",
+          "sha256": "7845e241b3166418bef7ba459b218d489d21beecac7818b88b88fb906d5f399a",
+          "bytes": 176382
+        },
+        {
+          "path": "media/1610403d0a068293731ba5ab95c4b70674a0f82acaf7de9eec46b890994f12ba.jpg",
+          "sha256": "1610403d0a068293731ba5ab95c4b70674a0f82acaf7de9eec46b890994f12ba",
+          "bytes": 120635
+        },
+        {
+          "path": "media/ee9e4668114d8ae1a553b1fdd0583e7d6cd3644841ce8a481ea5fc4c59581185.jpg",
+          "sha256": "ee9e4668114d8ae1a553b1fdd0583e7d6cd3644841ce8a481ea5fc4c59581185",
+          "bytes": 153879
+        },
+        {
+          "path": "media/2e41aa42a4cf865eafaaad5504bb359ab323cb87fcba9dea8fb5fb050b3f32cc.jpg",
+          "sha256": "2e41aa42a4cf865eafaaad5504bb359ab323cb87fcba9dea8fb5fb050b3f32cc",
+          "bytes": 84146
+        },
+        {
+          "path": "media/6fd0ed30a38f1f02559a9ccfa1503885cf68ad84267f3a78eb7c014ec6c7a85c.jpg",
+          "sha256": "6fd0ed30a38f1f02559a9ccfa1503885cf68ad84267f3a78eb7c014ec6c7a85c",
+          "bytes": 75753
+        },
+        {
+          "path": "media/5483373b626ef97f4a527aae1d8496c014835be34b1e4dd96f550d3a914352e9.jpg",
+          "sha256": "5483373b626ef97f4a527aae1d8496c014835be34b1e4dd96f550d3a914352e9",
+          "bytes": 165312
+        },
+        {
+          "path": "media/f786bf2e1a834435b8f6ab575a0317257273b3d7d41367e6c7ab288c4155c854.jpg",
+          "sha256": "f786bf2e1a834435b8f6ab575a0317257273b3d7d41367e6c7ab288c4155c854",
+          "bytes": 86599
+        },
+        {
+          "path": "media/eb012c2b33de4c2938a60a887da7bc38102dca157b42f58c261bfd7397a864d1.jpg",
+          "sha256": "eb012c2b33de4c2938a60a887da7bc38102dca157b42f58c261bfd7397a864d1",
+          "bytes": 97402
+        },
+        {
+          "path": "media/a149e9a85215b06b653d49973f6e66036d240851669126c65976554da0af54f7.jpg",
+          "sha256": "a149e9a85215b06b653d49973f6e66036d240851669126c65976554da0af54f7",
+          "bytes": 57550
+        },
+        {
+          "path": "media/48bb4f609aef1aa534b06d9dde3fd2f99f5d3c8475c6f5cec92015349caa49e6.jpg",
+          "sha256": "48bb4f609aef1aa534b06d9dde3fd2f99f5d3c8475c6f5cec92015349caa49e6",
+          "bytes": 50241
+        },
+        {
+          "path": "media/6654c00671ee7dbe7e2ca0a63152fd711daf41e13c681140d7895a9d23f0a00b.jpg",
+          "sha256": "6654c00671ee7dbe7e2ca0a63152fd711daf41e13c681140d7895a9d23f0a00b",
+          "bytes": 71792
+        },
+        {
+          "path": "media/80e96a174bf3a7643546efb42a13cd935b0770699a9de524f351ef0385ffddf0.jpg",
+          "sha256": "80e96a174bf3a7643546efb42a13cd935b0770699a9de524f351ef0385ffddf0",
+          "bytes": 56630
+        },
+        {
+          "path": "media/63213b5432884d2a897bffb7e485afeed8d9317142b899a4edd83d597c513fd0.jpg",
+          "sha256": "63213b5432884d2a897bffb7e485afeed8d9317142b899a4edd83d597c513fd0",
+          "bytes": 47145
+        },
+        {
+          "path": "media/3f1d666c30cb92ec07b8d752f079f755fae3b8a62f7d8193eb4e0e4c7ed1dd9d.webp",
+          "sha256": "3f1d666c30cb92ec07b8d752f079f755fae3b8a62f7d8193eb4e0e4c7ed1dd9d",
+          "bytes": 9074
+        },
+        {
+          "path": "media/377353f3e0d703eaafc0a39f49093c89886cca63bcda9ecfb74fd24ac0e05eda.png",
+          "sha256": "377353f3e0d703eaafc0a39f49093c89886cca63bcda9ecfb74fd24ac0e05eda",
+          "bytes": 469885
+        },
+        {
+          "path": "media/bc9ac53b57dd019ab17b9262bbd60ccd1540a840ed26e569fcb233f92d368d7f.png",
+          "sha256": "bc9ac53b57dd019ab17b9262bbd60ccd1540a840ed26e569fcb233f92d368d7f",
+          "bytes": 499056
+        }
+      ]
+    },
+    {
+      "itemId": "1d8683d3-4d60-450d-987e-887acc2c3963",
+      "sourceSlug": "wechat-zaome",
+      "account": "ZaomeDesign",
+      "title": "保护还是破坏？美国一座现代主义地标的改造引发争议，50年粗野主义混凝土外墙将被金属和玻璃取代",
+      "publishedAt": "2026-11-13T01:00:00.000Z",
+      "articlePath": "articles/wechat-zaome/ccb69608833aa40ec9afda251b6210d861d204c648cd4060add94a3a8f61ff7d/article.md",
+      "articleSha256": "faf85b7ab4baa4c291bd21524e644f237e7da522b2476c23610fa1218c6aace6",
+      "files": [
+        {
+          "path": "articles/wechat-zaome/ccb69608833aa40ec9afda251b6210d861d204c648cd4060add94a3a8f61ff7d/article.md",
+          "sha256": "faf85b7ab4baa4c291bd21524e644f237e7da522b2476c23610fa1218c6aace6",
+          "bytes": 12580
+        },
+        {
+          "path": "media/d498d0c77a65dd6af74c54a2f75c911c69e87ad725402d317125286bd043a056.jpg",
+          "sha256": "d498d0c77a65dd6af74c54a2f75c911c69e87ad725402d317125286bd043a056",
+          "bytes": 49368
+        },
+        {
+          "path": "media/cbe083bafb17e7b42cfaf31ff146843e9715889da0129c6e877819144a590803.jpg",
+          "sha256": "cbe083bafb17e7b42cfaf31ff146843e9715889da0129c6e877819144a590803",
+          "bytes": 18111
+        },
+        {
+          "path": "media/b718ffb49e58bcb7996e610ea01c445743523155d61cf882ca6615237701085d.jpg",
+          "sha256": "b718ffb49e58bcb7996e610ea01c445743523155d61cf882ca6615237701085d",
+          "bytes": 94486
+        },
+        {
+          "path": "media/baae05d99ae285337a7b0c4b0a48721c64f3c195b24849159678c25e817250e5.jpg",
+          "sha256": "baae05d99ae285337a7b0c4b0a48721c64f3c195b24849159678c25e817250e5",
+          "bytes": 107288
+        },
+        {
+          "path": "media/81c7c5856fbd60e9af1a2b8bb0cb04be11e1665c68b6d9aa960645c6bc1dced7.jpg",
+          "sha256": "81c7c5856fbd60e9af1a2b8bb0cb04be11e1665c68b6d9aa960645c6bc1dced7",
+          "bytes": 128079
+        },
+        {
+          "path": "media/ec3e36524cca2aa4f946c2bca64b204bf205ef3068661921b3469ce1811e9212.jpg",
+          "sha256": "ec3e36524cca2aa4f946c2bca64b204bf205ef3068661921b3469ce1811e9212",
+          "bytes": 139315
+        },
+        {
+          "path": "media/ffe5e51bd13b8b8eb54cdd50ff0230fcc448b9420216346bd8237ba16ba4826e.jpg",
+          "sha256": "ffe5e51bd13b8b8eb54cdd50ff0230fcc448b9420216346bd8237ba16ba4826e",
+          "bytes": 108982
+        },
+        {
+          "path": "media/0b16f7f871000d5e3823fdd101551335be8dd38b519b8c0cb72b2a7b38bd6163.jpg",
+          "sha256": "0b16f7f871000d5e3823fdd101551335be8dd38b519b8c0cb72b2a7b38bd6163",
+          "bytes": 102101
+        },
+        {
+          "path": "media/8f7fd1d15d42e59a17044e8999a81492256259bba974489d785d76690c604913.jpg",
+          "sha256": "8f7fd1d15d42e59a17044e8999a81492256259bba974489d785d76690c604913",
+          "bytes": 76363
+        },
+        {
+          "path": "media/d4e07be67e42c1cedfc9556ff924b3d9fc15a99f37b3f5d539012bcb780343fc.jpg",
+          "sha256": "d4e07be67e42c1cedfc9556ff924b3d9fc15a99f37b3f5d539012bcb780343fc",
+          "bytes": 175560
+        },
+        {
+          "path": "media/3f91b251e1c68c811114aae95693e25defbb3fa95a6f8deac8a48d406983fceb.jpg",
+          "sha256": "3f91b251e1c68c811114aae95693e25defbb3fa95a6f8deac8a48d406983fceb",
+          "bytes": 113527
+        },
+        {
+          "path": "media/97834d7b2de25775554c7c0fa5971bc5a701ecabff31d25551fe829a7496341f.jpg",
+          "sha256": "97834d7b2de25775554c7c0fa5971bc5a701ecabff31d25551fe829a7496341f",
+          "bytes": 38134
+        },
+        {
+          "path": "media/b91adfbeede869dcbb81e686f02263e1486e586d5686340fb9638b58dcc8585d.jpg",
+          "sha256": "b91adfbeede869dcbb81e686f02263e1486e586d5686340fb9638b58dcc8585d",
+          "bytes": 133451
+        },
+        {
+          "path": "media/5207b0209fb88725c0cf9395e234da2010e2d750b126779a0bfacd28e2a4db2f.jpg",
+          "sha256": "5207b0209fb88725c0cf9395e234da2010e2d750b126779a0bfacd28e2a4db2f",
+          "bytes": 190444
+        },
+        {
+          "path": "media/149dd37b1f7cb23031f1183377ad3de1844458b89ba6e9ab9540c73f5cb04a85.jpg",
+          "sha256": "149dd37b1f7cb23031f1183377ad3de1844458b89ba6e9ab9540c73f5cb04a85",
+          "bytes": 87788
+        },
+        {
+          "path": "media/94a1c7cf979d6161e44c3c1e9bbbd9d1e5d9428436419676467e1c34246957ff.jpg",
+          "sha256": "94a1c7cf979d6161e44c3c1e9bbbd9d1e5d9428436419676467e1c34246957ff",
+          "bytes": 131774
+        },
+        {
+          "path": "media/ded2048badf89a777d90c96a3efa01c7defbf3fd55fbbea866938c5aa1f56176.jpg",
+          "sha256": "ded2048badf89a777d90c96a3efa01c7defbf3fd55fbbea866938c5aa1f56176",
+          "bytes": 117600
+        },
+        {
+          "path": "media/5449ca810c9d419934463d58a2a7901c07590915d7eea68440d7fc2a01c580ee.jpg",
+          "sha256": "5449ca810c9d419934463d58a2a7901c07590915d7eea68440d7fc2a01c580ee",
+          "bytes": 150617
+        }
+      ]
+    },
+    {
+      "itemId": "c7a9bb36-9aac-47be-a60d-5615b13cae04",
+      "sourceSlug": "wechat-zhuyi",
+      "account": "设计筑意",
+      "title": "追讨离职人员17万上热搜，院负责人：他爱怎么闹就怎么闹...",
+      "publishedAt": "2026-11-13T12:04:00.000Z",
+      "articlePath": "articles/wechat-zhuyi/3685549348844015ccf706795841e4a3e47f56536f9ddc51a2ef47dd6fa78381/article.md",
+      "articleSha256": "36210aeb81356d741bc20cd441285693b510f3f9326333835fd3a226b508a3c4",
+      "files": [
+        {
+          "path": "articles/wechat-zhuyi/3685549348844015ccf706795841e4a3e47f56536f9ddc51a2ef47dd6fa78381/article.md",
+          "sha256": "36210aeb81356d741bc20cd441285693b510f3f9326333835fd3a226b508a3c4",
+          "bytes": 10104
+        },
+        {
+          "path": "media/3e89466492e3684f9c9cf2b25fecc87e81c1a2a4beb214e4f7cd2a27f39f6efc.jpg",
+          "sha256": "3e89466492e3684f9c9cf2b25fecc87e81c1a2a4beb214e4f7cd2a27f39f6efc",
+          "bytes": 136473
+        },
+        {
+          "path": "media/3962949dd01ec7c7dc11f2eeb8d4c7c43dd49d52e884f0e050e467d55eeeeeea.png",
+          "sha256": "3962949dd01ec7c7dc11f2eeb8d4c7c43dd49d52e884f0e050e467d55eeeeeea",
+          "bytes": 37850
+        },
+        {
+          "path": "media/6e772dd61633062a213bd240496dc2c7ea19f746775f3b88fe81b32e23047909.jpg",
+          "sha256": "6e772dd61633062a213bd240496dc2c7ea19f746775f3b88fe81b32e23047909",
+          "bytes": 70208
+        },
+        {
+          "path": "media/6e50d3c32d677ecccb6f2a709db5cf171b4d3906c6f63d38ec744026b777517e.jpg",
+          "sha256": "6e50d3c32d677ecccb6f2a709db5cf171b4d3906c6f63d38ec744026b777517e",
+          "bytes": 70117
+        }
+      ]
+    }
+  ]
+}
